@@ -6,7 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text style={styles.textStyle}>Fuck</Text>
       <Text style={styles.textStyle}>You</Text>
-      <Text style={styles.textStyle}>Chazzz</Text>
+      <Text style={styles.textStyle}>Chazz</Text>
     </View>
   );
 }
